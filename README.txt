@@ -1,0 +1,2 @@
+This is a program to control digital pin through IOT.We can use this program to turn on/turn off led.We have to add ZIP library .You just have to fill the ssid ,password and auth.
+This coded by Alestor Aldous/Alestor-Tech-Industries.Thank you
